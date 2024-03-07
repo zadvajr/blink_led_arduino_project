@@ -4,10 +4,7 @@
 ## Written By
 @BoluBiyi03 (https://github.com/BoluBiyi03)
 ## Collaborated with
-<<<<<<< HEAD
 @zadvajr(https://github.com/zadvajr)
-=======
-@zadvajr
 >>>>>>> 8f5a5ab94783a2467f4818f604a983852b1b7ec4
 ## Introduction
 ### Purpose
