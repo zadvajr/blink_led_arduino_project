@@ -13,6 +13,9 @@ The basic required hardware or tools are just three and they are;
 1) Arduino Board 
 2) Yellow LED
 3) 220 ohms resistor
+
+## Schematic Design
+!(schematic capture)(https://drive.google.com/file/d/1G4eeNPq1NZJu3UplKzJJ6KO6lST_P5rf/view?usp=sharing)
 ## Source Code
 ```
 /*
