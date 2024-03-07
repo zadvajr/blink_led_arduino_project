@@ -1,7 +1,7 @@
 # BLINKING LED PROJECT USING ARDUINO
 ## Date
 5th March,2024
-## Produced By
+## Written By
 @BoluBiyi03 (https://github.com/BoluBiyi03)
 ## Collaborated with
 @zadvajr(https://github.com/zadvajr)
