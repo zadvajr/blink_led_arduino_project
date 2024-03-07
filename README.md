@@ -2,9 +2,9 @@
 ## Date
 5th March,2024
 ## Written By
-@BoluBiyi03 (https://github.com/BoluBiyi03)
+[Oluwabiyi Boluwatife Joshua](https://github.com/BoluBiyi03)
 ## Collaborated with
-@zadvajr(https://github.com/zadvajr)
+[Daniel Zadva Jnr.](https://github.com/zadvajr)
 ## Introduction
 ### Purpose
 The purpose of this project is to create a system that allows the LED to come on for half a second and goes off for half a second then repeat the process again with a delay of 1 second each instead of the previous 0.5 second.
