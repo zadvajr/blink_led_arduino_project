@@ -1,9 +1,9 @@
 # BLINKING LED PROJECT USING ARDUINO
 ## Date
 5th March,2024
-## Written By
+## By
 [Oluwabiyi Boluwatife Joshua](https://github.com/BoluBiyi03)
-## Collaborated with
+## Supervised By
 [Daniel Zadva Jnr.](https://github.com/zadvajr)
 ## Introduction
 ### Purpose
