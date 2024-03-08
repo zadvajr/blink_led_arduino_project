@@ -17,7 +17,7 @@ The basic required hardware or tools are just three and they are;
 ## Schematic Design
 !(schematic capture)(https://drive.google.com/file/d/1G4eeNPq1NZJu3UplKzJJ6KO6lST_P5rf/view?usp=sharing)
 ## Source Code
-```
+```cpp
 /*
 This is my led blink project
 It blinks an led for a second and turn it off for another second
