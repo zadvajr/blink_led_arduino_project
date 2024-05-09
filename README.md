@@ -15,7 +15,7 @@ The basic required hardware or tools are just three and they are;
 3) 220 ohms resistor
 
 ## Schematic Design
-!(schematic capture)(https://drive.google.com/file/d/1G4eeNPq1NZJu3UplKzJJ6KO6lST_P5rf/view?usp=sharing)
+[schematic capture](https://drive.google.com/file/d/1G4eeNPq1NZJu3UplKzJJ6KO6lST_P5rf/view?usp=sharing)
 ## Source Code
 ```cpp
 /*
@@ -49,8 +49,8 @@ void loop() {
 [text](../blink_led/blink_led_sketch/blink_led_sketch.ino.hex)
 
 ## Output
-!(arduino board)(https://drive.google.com/file/d/1Bknc2SETcQdaZ_DlWMmSU0a796EK26FB/view?usp=sharing)
-!(arduino visual output)(https://drive.google.com/file/d/10QubbPeABzxLFT3OtzgukBICE6O11Cn0/view?usp=sharing)
+[arduino board](https://drive.google.com/file/d/1Bknc2SETcQdaZ_DlWMmSU0a796EK26FB/view?usp=sharing)
+[arduino visual output](https://drive.google.com/file/d/10QubbPeABzxLFT3OtzgukBICE6O11Cn0/view?usp=sharing)
 
 ## Summary and Conclusion
 The **Blinking LED project using Arduino** is a simple yet effective demonstration of LED blinking using Arduino. This basic setup showcases the fundamental principles of programming and hardware interaction, making it an ideal starting point for beginners in electronics and programming.          In conclusion, the blinking LED project using Arduino provides an accessible entry into the world of microcontroller-based projects. Its simplicity serves as a foundation for learning, allowing enthusiasts to grasp key concepts and build a solid understanding of Arduino programming and hardware interfacing.
